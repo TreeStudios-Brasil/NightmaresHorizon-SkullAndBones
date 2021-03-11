@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arma
+  - KnockBack
+  - Inimigo
+  - coletavel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Chao
+  - Water
+  - UI
+  - 
+  - Cam
+  - Groundcheck
+  - Player
+  - FUCK
+  - inimigo
+  - coletaveis
+  - ObstaculosInimigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background Layers
+    uniqueID: 3618321865
+    locked: 0
+  - name: Background
+    uniqueID: 143604945
+    locked: 0
+  - name: Plataform
+    uniqueID: 201907103
+    locked: 0
+  - name: Props
+    uniqueID: 3807559525
+    locked: 0
+  - name: Ground
+    uniqueID: 713981777
+    locked: 0
+  - name: Inimigo
+    uniqueID: 964452679
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 3719275387
+    locked: 0
