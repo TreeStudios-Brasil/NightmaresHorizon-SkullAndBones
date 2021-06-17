@@ -176,6 +176,16 @@
         <module-layer name="Default">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_8_0" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/Config/AudioController.cs" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/Config/AudioController.cs.meta" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/Config/Parallax.cs" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/Config/Parallax.cs.meta" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs.meta" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/IA/FatBird.cs" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/IA/FatBird.cs.meta" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/IA/Mushroom.cs" />
+          <content url="file://$PROJECT_DIR$/Assets/Scripts/IA/Mushroom.cs.meta" />
           <content url="file://$PROJECT_DIR$/Assets/Scripts/IA/Skull.cs" />
           <content url="file://$PROJECT_DIR$/Assets/Scripts/IA/Skull.cs.meta" />
           <content url="file://$PROJECT_DIR$/Assets/Scripts/_GameController.cs" />
